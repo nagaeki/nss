@@ -1,4 +1,5 @@
-[{
+[
+  {
     "name": "tohutohu",
     "passwd": "",
     "gecos": "",
@@ -122,6 +123,15 @@
     "name": "sysad",
     "passwd": "",
     "gid": 60000,
-    "members": ["tohutohu", "wtks", "nagatea", "Nagarei", "motoki317", "sapphi-red", "mazrean", "FujishigeTemma"]
+    "members": [
+      "tohutohu",
+      "wtks",
+      "nagatea",
+      "Nagarei",
+      "motoki317",
+      "sapphi-red",
+      "mazrean",
+      "FujishigeTemma"
+    ]
   }
 ]
