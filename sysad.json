@@ -12,7 +12,9 @@
 		"name": "tohutohu",
 		"passwd": "",
 		"gid": 60002,
-		"members": ["tohutohu"]
+		"members": [
+			"tohutohu"
+		]
 	},
 	{
 		"name": "wtks",
@@ -27,7 +29,9 @@
 		"name": "wtks",
 		"passwd": "",
 		"gid": 60003,
-		"members": ["wtks"]
+		"members": [
+			"wtks"
+		]
 	},
 	{
 		"name": "nagatea",
@@ -42,9 +46,11 @@
 		"name": "nagatea",
 		"passwd": "",
 		"gid": 60004,
-		"members": ["nagatea"]
+		"members": [
+			"nagatea"
+		]
 	},
- 	{
+	{
 		"name": "Nagarei",
 		"passwd": "",
 		"gecos": "",
@@ -57,7 +63,9 @@
 		"name": "Nagarei",
 		"passwd": "",
 		"gid": 60005,
-		"members": ["Nagarei"]
+		"members": [
+			"Nagarei"
+		]
 	},
 	{
 		"name": "FujishigeTemma",
@@ -72,7 +80,9 @@
 		"name": "FujishigeTemma",
 		"passwd": "",
 		"gid": 60008,
-		"members": ["FujishigeTemma"]
+		"members": [
+			"FujishigeTemma"
+		]
 	},
 	{
 		"name": "mazrean",
@@ -87,7 +97,9 @@
 		"name": "mazrean",
 		"passwd": "",
 		"gid": 60009,
-		"members": ["mazrean"]
+		"members": [
+			"mazrean"
+		]
 	},
 	{
 		"name": "motoki317",
@@ -102,7 +114,26 @@
 		"name": "motoki317",
 		"passwd": "",
 		"gid": 60006,
-		"members": ["motoki317"]
+		"members": [
+			"motoki317"
+		]
+	},
+	{
+		"name": "sapphi-red",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/sapphi-red",
+		"shell": "/bin/bash",
+		"uid": 60007,
+		"gid": 60007
+	},
+	{
+		"name": "sapphi-red",
+		"passwd": "",
+		"gid": 60007,
+		"members": [
+			"sapphi-red"
+		]
 	},
 	{
 		"name": "fuji8",
@@ -117,7 +148,9 @@
 		"name": "fuji8",
 		"passwd": "",
 		"gid": 60010,
-		"members": ["fuji8"]
+		"members": [
+			"fuji8"
+		]
 	},
 	{
 		"name": "wasabi315",
@@ -132,7 +165,9 @@
 		"name": "wasabi315",
 		"passwd": "",
 		"gid": 60011,
-		"members": ["wasabi315"]
+		"members": [
+			"wasabi315"
+		]
 	},
 	{
 		"name": "yto60",
@@ -147,9 +182,11 @@
 		"name": "yto60",
 		"passwd": "",
 		"gid": 60012,
-		"members": ["yto60"]
+		"members": [
+			"yto60"
+		]
 	},
-  	{
+	{
 		"name": "ryoha000",
 		"passwd": "",
 		"gecos": "",
@@ -162,12 +199,27 @@
 		"name": "ryoha000",
 		"passwd": "",
 		"gid": 60013,
-		"members": ["ryoha000"]
+		"members": [
+			"ryoha000"
+		]
 	},
 	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
-		"members": ["tohutohu", "wtks", "nagatea", "Nagarei", "FujishigeTemma", "mazrean", "motoki317", "fuji8", "wasabi315", "yto60", "ryoha000"]
+		"members": [
+			"tohutohu",
+			"wtks",
+			"nagatea",
+			"Nagarei",
+			"FujishigeTemma",
+			"mazrean",
+			"motoki317",
+			"sapphi-red",
+			"fuji8",
+			"wasabi315",
+			"yto60",
+			"ryoha000"
+		]
 	}
 ]
