@@ -204,6 +204,23 @@
 		]
 	},
 	{
+		"name": "WistreHosshii",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/WistreHosshii",
+		"shell": "/bin/bash",
+		"uid": 60014,
+		"gid": 60014
+	},
+	{
+		"name": "WistreHosshii",
+		"passwd": "",
+		"gid": 60014,
+		"members": [
+			"WistreHosshii"
+		]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
@@ -219,7 +236,8 @@
 			"fuji8",
 			"wasabi315",
 			"yto60",
-			"ryoha000"
+			"ryoha000",
+			"WistreHosshii"
 		]
 	}
 ]
