@@ -221,6 +221,23 @@
 		]
 	},
 	{
+		"name": "oribe1115",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/oribe1115",
+		"shell": "/bin/bash",
+		"uid": 60015,
+		"gid": 60015
+	},
+	{
+		"name": "oribe1115",
+		"passwd": "",
+		"gid": 60015,
+		"members": [
+			"oribe1115"
+		]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
@@ -237,7 +254,8 @@
 			"wasabi315",
 			"yto60",
 			"ryoha000",
-			"WistreHosshii"
+			"WistreHosshii",
+			"oribe1115"
 		]
 	}
 ]
