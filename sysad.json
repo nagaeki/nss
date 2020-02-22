@@ -238,10 +238,28 @@
 		]
 	},
 	{
+		"name": "trapyojo",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/trapyojo",
+		"shell": "/bin/bash",
+		"uid": 60016,
+		"gid": 60016
+	},
+	{
+		"name": "trapyojo",
+		"passwd": "",
+		"gid": 60016,
+		"members": [
+			"trapyojo"
+		]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
 		"members": [
+			"trapyojo",
 			"tohutohu",
 			"wtks",
 			"nagatea",
