@@ -204,20 +204,20 @@
 		]
 	},
 	{
-		"name": "WistreHosshii",
+		"name": "Hosshii",
 		"passwd": "",
 		"gecos": "",
-		"dir": "/home/WistreHosshii",
+		"dir": "/home/Hosshii",
 		"shell": "/bin/bash",
 		"uid": 60014,
 		"gid": 60014
 	},
 	{
-		"name": "WistreHosshii",
+		"name": "Hosshii",
 		"passwd": "",
 		"gid": 60014,
 		"members": [
-			"WistreHosshii"
+			"Hosshii"
 		]
 	},
 	{
@@ -272,7 +272,7 @@
 			"wasabi315",
 			"yto60",
 			"ryoha000",
-			"WistreHosshii",
+			"Hosshii",
 			"oribe1115"
 		]
 	}
