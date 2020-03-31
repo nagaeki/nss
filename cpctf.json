@@ -33,6 +33,6 @@
 		"name": "cpctf",
 		"passwd": "",
 		"gid": 60000,
-		"members": ["kaz", "FourmiSushi", "Nagarei"]
+		"members": ["FourmiSushi", "Nagarei"]
 	}
 ]
