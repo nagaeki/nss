@@ -1,22 +1,5 @@
 [
 	{
-		"name": "tohutohu",
-		"passwd": "",
-		"gecos": "",
-		"dir": "/home/tohutohu",
-		"shell": "/bin/bash",
-		"uid": 60002,
-		"gid": 60002
-	},
-	{
-		"name": "tohutohu",
-		"passwd": "",
-		"gid": 60002,
-		"members": [
-			"tohutohu"
-		]
-	},
-	{
 		"name": "wtks",
 		"passwd": "",
 		"gecos": "",
@@ -140,7 +123,6 @@
 		"passwd": "",
 		"gid": 60000,
 		"members": [
-			"tohutohu",
 			"wtks",
 			"nagatea",
 			"Nagarei",
