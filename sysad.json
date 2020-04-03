@@ -204,23 +204,6 @@
 		]
 	},
 	{
-		"name": "WistreHosshii",
-		"passwd": "",
-		"gecos": "",
-		"dir": "/home/WistreHosshii",
-		"shell": "/bin/bash",
-		"uid": 60014,
-		"gid": 60014
-	},
-	{
-		"name": "WistreHosshii",
-		"passwd": "",
-		"gid": 60014,
-		"members": [
-			"WistreHosshii"
-		]
-	},
-	{
 		"name": "oribe1115",
 		"passwd": "",
 		"gecos": "",
@@ -255,6 +238,23 @@
 		]
 	},
 	{
+		"name": "Hosshii",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/Hosshii",
+		"shell": "/bin/bash",
+		"uid": 60017,
+		"gid": 60017
+	},
+	{
+		"name": "Hosshii",
+		"passwd": "",
+		"gid": 60017,
+		"members": [
+			"Hosshii"
+		]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
@@ -272,8 +272,9 @@
 			"wasabi315",
 			"yto60",
 			"ryoha000",
-			"WistreHosshii",
-			"oribe1115"
+			"oribe1115",
+			"Hosshii"
+
 		]
 	}
 ]
