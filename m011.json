@@ -17,23 +17,6 @@
 		]
 	},
 	{
-		"name": "nagatea",
-		"passwd": "",
-		"gecos": "",
-		"dir": "/home/nagatea",
-		"shell": "/bin/bash",
-		"uid": 60004,
-		"gid": 60004
-	},
-	{
-		"name": "nagatea",
-		"passwd": "",
-		"gid": 60004,
-		"members": [
-			"nagatea"
-		]
-	},
-	{
 		"name": "Nagarei",
 		"passwd": "",
 		"gecos": "",
@@ -124,7 +107,6 @@
 		"gid": 60000,
 		"members": [
 			"wtks",
-			"nagatea",
 			"Nagarei",
 			"motoki317",
 			"sapphi-red",
