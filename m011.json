@@ -102,6 +102,23 @@
 		]
 	},
 	{
+		"name": "series2",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/series2",
+		"shell": "/bin/bash",
+		"uid": 60018,
+		"gid": 60018
+	},
+	{
+		"name": "series2",
+		"passwd": "",
+		"gid": 60018,
+		"members": [
+			"series2"
+		]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
@@ -111,7 +128,8 @@
 			"motoki317",
 			"sapphi-red",
 			"mazrean",
-			"FujishigeTemma"
+			"FujishigeTemma",
+			"series2"
 		]
 	}
 ]
