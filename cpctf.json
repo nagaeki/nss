@@ -1,20 +1,5 @@
 [
 	{
-		"name": "FourmiSushi",
-		"passwd": "",
-		"gecos": "",
-		"dir": "/home/FourmiSushi",
-		"shell": "/bin/bash",
-		"uid": 60004,
-		"gid": 60004
-	},
-	{
-		"name": "FourmiSushi",
-		"passwd": "",
-		"gid": 60004,
-		"members": ["FourmiSushi"]
-	},
-	{
 		"name": "Nagarei",
 		"passwd": "",
 		"gecos": "",
@@ -33,6 +18,6 @@
 		"name": "cpctf",
 		"passwd": "",
 		"gid": 60000,
-		"members": ["FourmiSushi", "Nagarei"]
+		"members": ["Nagarei"]
 	}
 ]
