@@ -102,6 +102,23 @@
 		]
 	},
 	{
+		"name": "trapyojo",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/trapyojo",
+		"shell": "/bin/bash",
+		"uid": 60016,
+		"gid": 60016
+	},
+	{
+		"name": "trapyojo",
+		"passwd": "",
+		"gid": 60016,
+		"members": [
+			"trapyojo"
+		]
+	},
+	{
 		"name": "series2",
 		"passwd": "",
 		"gecos": "",
@@ -129,6 +146,7 @@
 			"sapphi-red",
 			"mazrean",
 			"FujishigeTemma",
+			"trapyojo",
 			"series2"
 		]
 	}
