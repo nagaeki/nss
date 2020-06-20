@@ -136,6 +136,23 @@
 		]
 	},
 	{
+		"name": "cskd8",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/cskd8",
+		"shell": "/bin/bash",
+		"uid": 60019,
+		"gid": 60019
+	},
+	{
+		"name": "cskd8",
+		"passwd": "",
+		"gid": 60019,
+		"members": [
+			"cskd8"
+		]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
@@ -147,7 +164,8 @@
 			"mazrean",
 			"FujishigeTemma",
 			"trapyojo",
-			"series2"
+			"series2",
+			"cskd8"
 		]
 	}
 ]
