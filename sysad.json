@@ -221,6 +221,23 @@
 		]
 	},
 	{
+		"name": "hijiki51",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/hijiki51",
+		"shell": "/bin/bash",
+		"uid": 60020,
+		"gid": 60020
+	},
+	{
+		"name": "hijiki51",
+		"passwd": "",
+		"gid": 60020,
+		"members": [
+			"hijiki51"
+		]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
@@ -237,7 +254,8 @@
 			"yto60",
 			"ryoha000",
 			"oribe1115",
-			"Hosshii"
+			"Hosshii",
+			"hijiki51"
 		]
 	}
 ]
