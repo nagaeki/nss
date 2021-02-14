@@ -153,6 +153,23 @@
 		]
 	},
 	{
+		"name": "hijiki51",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/hijiki51",
+		"shell": "/bin/bash",
+		"uid": 60020,
+		"gid": 60020
+	},
+	{
+		"name": "hijiki51",
+		"passwd": "",
+		"gid": 60020,
+		"members": [
+			"hijiki51"
+		]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
@@ -165,7 +182,8 @@
 			"FujishigeTemma",
 			"trapyojo",
 			"series2",
-			"cskd8"
+			"cskd8",
+			"hijiki51"
 		]
 	}
 ]
