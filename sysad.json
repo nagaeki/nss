@@ -238,6 +238,23 @@
 		]
 	},
 	{
+		"name": "toshi-pono",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/toshi-pono",
+		"shell": "/bin/bash",
+		"uid": 60021,
+		"gid": 60021
+	},
+	{
+		"name": "toshi-pono",
+		"passwd": "",
+		"gid": 60021,
+		"members": [
+			"toshi-pono"
+		]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
@@ -255,7 +272,8 @@
 			"ryoha000",
 			"oribe1115",
 			"Hosshii",
-			"hijiki51"
+			"hijiki51",
+			"toshi-pono"
 		]
 	}
 ]
