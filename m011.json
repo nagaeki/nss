@@ -187,6 +187,23 @@
 		]
 	},
 	{
+		"name": "lum1narie",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/lum1narie",
+		"shell": "/bin/bash",
+		"uid": 60022,
+		"gid": 60022
+	},
+	{
+		"name": "lum1narie",
+		"passwd": "",
+		"gid": 60022,
+		"members": [
+			"lum1narie"
+		]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
@@ -201,7 +218,8 @@
 			"series2",
 			"cskd8",
 			"hijiki51",
-			"toshi-pono"
+			"toshi-pono",
+			"lum1narie"
 		]
 	}
 ]
