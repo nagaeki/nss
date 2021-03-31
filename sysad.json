@@ -136,23 +136,6 @@
 		]
 	},
 	{
-		"name": "yto60",
-		"passwd": "",
-		"gecos": "",
-		"dir": "/home/yto60",
-		"shell": "/bin/bash",
-		"uid": 60012,
-		"gid": 60012
-	},
-	{
-		"name": "yto60",
-		"passwd": "",
-		"gid": 60012,
-		"members": [
-			"yto60"
-		]
-	},
-	{
 		"name": "ryoha000",
 		"passwd": "",
 		"gecos": "",
@@ -268,7 +251,6 @@
 			"sapphi-red",
 			"fuji8",
 			"wasabi315",
-			"yto60",
 			"ryoha000",
 			"oribe1115",
 			"Hosshii",
