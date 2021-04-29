@@ -1,22 +1,5 @@
 [
 	{
-		"name": "wtks",
-		"passwd": "",
-		"gecos": "",
-		"dir": "/home/wtks",
-		"shell": "/bin/bash",
-		"uid": 60003,
-		"gid": 60003
-	},
-	{
-		"name": "wtks",
-		"passwd": "",
-		"gid": 60003,
-		"members": [
-			"wtks"
-		]
-	},
-	{
 		"name": "Nagarei",
 		"passwd": "",
 		"gecos": "",
@@ -243,7 +226,6 @@
 		"gid": 60000,
 		"members": [
 			"trapyojo",
-			"wtks",
 			"Nagarei",
 			"FujishigeTemma",
 			"mazrean",
