@@ -221,6 +221,23 @@
 		]
 	},
 	{
+		"name": "Ras96",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/Ras96",
+		"shell": "/bin/bash",
+		"uid": 60023,
+		"gid": 60023
+	},
+	{
+		"name": "Ras96",
+		"passwd": "",
+		"gid": 60023,
+		"members": [
+			"Ras96"
+		]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
@@ -237,7 +254,8 @@
 			"oribe1115",
 			"Hosshii",
 			"hijiki51",
-			"toshi-pono"
+			"toshi-pono",
+			"Ras96"
 		]
 	}
 ]
