@@ -189,6 +189,15 @@
 	{
 		"name": "Ras96",
 		"passwd": "",
+		"gecos": "",
+		"dir": "/home/Ras96",
+		"shell": "/bin/bash",
+		"uid": 60023,
+		"gid": 60023
+	},
+	{
+		"name": "Ras96",
+		"passwd": "",
 		"gid": 60023,
 		"members": [
 			"Ras96"
