@@ -221,6 +221,23 @@
 		]
 	},
 	{
+		"name": "xxarupakaxx",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/xxarupakaxx",
+		"shell": "/bin/bash",
+		"uid": 60024,
+		"gid": 60024
+	},
+	{
+		"name": "xxarupakaxx",
+		"passwd": "",
+		"gid": 60024,
+		"members": [
+			"xxarupakaxx"
+		]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
@@ -237,7 +254,8 @@
 			"hijiki51",
 			"toshi-pono",
 			"lum1narie",
-			"Ras96"
+			"Ras96",
+			"xxarupakaxx"
 		]
 	}
 ]
