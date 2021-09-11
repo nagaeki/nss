@@ -255,20 +255,20 @@
 		]
 	},
 	{
-		"name": "anko",
+		"name": "anko9801",
 		"passwd": "",
 		"gecos": "",
-		"dir": "/home/anko",
+		"dir": "/home/anko9801",
 		"shell": "/bin/bash",
 		"uid": 60025,
 		"gid": 60025
 	},
 	{
-		"name": "anko",
+		"name": "anko9801",
 		"passwd": "",
 		"gid": 60025,
 		"members": [
-			"anko"
+			"anko9801"
 		]
 	},
 	{
@@ -291,7 +291,7 @@
 			"toshi-pono",
 			"Ras96",
 			"xxarupakaxx",
-			"anko"
+			"anko9801"
 		]
 	}
 ]
