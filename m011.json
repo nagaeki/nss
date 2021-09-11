@@ -238,6 +238,23 @@
 		]
 	},
 	{
+		"name": "anko",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/anko",
+		"shell": "/bin/bash",
+		"uid": 60025,
+		"gid": 60025
+	},
+	{
+		"name": "anko",
+		"passwd": "",
+		"gid": 60025,
+		"members": [
+			"anko"
+		]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
@@ -255,7 +272,8 @@
 			"toshi-pono",
 			"lum1narie",
 			"Ras96",
-			"xxarupakaxx"
+			"xxarupakaxx",
+			"anko"
 		]
 	}
 ]

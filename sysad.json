@@ -237,23 +237,40 @@
 			"Ras96"
 		]
 	},
-  	{
-                "name": "xxarupakaxx",
-                "passwd": "",
-                "gecos": "",
-                "dir": "/home/xxarupakaxx",
-                "shell": "/bin/bash",
-                "uid": 60024,
-                "gid": 60024
-        },
-        {
-                "name": "xxarupakaxx",
-                "passwd": "",
-                "gid": 60024,
-                "members": [
-                        "xxarupakaxx"
-                ]
-        },
+	{
+		"name": "xxarupakaxx",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/xxarupakaxx",
+		"shell": "/bin/bash",
+		"uid": 60024,
+		"gid": 60024
+	},
+	{
+		"name": "xxarupakaxx",
+		"passwd": "",
+		"gid": 60024,
+		"members": [
+			"xxarupakaxx"
+		]
+	},
+	{
+		"name": "anko",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/anko",
+		"shell": "/bin/bash",
+		"uid": 60025,
+		"gid": 60025
+	},
+	{
+		"name": "anko",
+		"passwd": "",
+		"gid": 60025,
+		"members": [
+			"anko"
+		]
+	},
 	{
 		"name": "sysad",
 		"passwd": "",
@@ -273,7 +290,8 @@
 			"hijiki51",
 			"toshi-pono",
 			"Ras96",
-			"xxarupakaxx"
+			"xxarupakaxx",
+			"anko"
 		]
 	}
 ]
