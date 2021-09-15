@@ -272,6 +272,23 @@
 		]
 	},
 	{
+		"name": "MotoyaAsahina",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/MotoyaAsahina",
+		"shell": "/bin/bash",
+		"uid": 60026,
+		"gid": 60026
+	},
+	{
+		"name": "MotoyaAsahina",
+		"passwd": "",
+		"gid": 60026,
+		"members": [
+			"MotoyaAsahina"
+		]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
@@ -291,7 +308,8 @@
 			"toshi-pono",
 			"Ras96",
 			"xxarupakaxx",
-			"anko9801"
+			"anko9801",
+			"MotoyaAsahina"
 		]
 	}
 ]
