@@ -221,6 +221,23 @@
 		]
 	},
 	{
+		"name": "lum1narie",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/lum1narie",
+		"shell": "/bin/bash",
+		"uid": 60022,
+		"gid": 60022
+	},
+	{
+		"name": "lum1narie",
+		"passwd": "",
+		"gid": 60022,
+		"members": [
+			"lum1narie"
+		]
+	},
+	{
 		"name": "Ras96",
 		"passwd": "",
 		"gecos": "",
@@ -306,6 +323,7 @@
 			"Hosshii",
 			"hijiki51",
 			"toshi-pono",
+			"lum1narie",
 			"Ras96",
 			"xxarupakaxx",
 			"anko9801",
