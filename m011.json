@@ -289,6 +289,23 @@
 		]
 	},
 	{
+		"name": "fuji8",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/fuji8",
+		"shell": "/bin/bash",
+		"uid": 60028,
+		"gid": 60028
+	},
+	{
+		"name": "fuji8",
+		"passwd": "",
+		"gid": 60028,
+		"members": [
+			"fuji8"
+		]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
@@ -309,7 +326,8 @@
 			"xxarupakaxx",
 			"anko9801",
 			"MotoyaAsahina",
-			"ryoha000"
+			"ryoha000",
+			"fuji8"
 		]
 	}
 ]
