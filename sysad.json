@@ -306,6 +306,14 @@
 		]
 	},
 	{
+		"name": "cskd8",
+		"passwd": "",
+		"gid": 60027,
+		"members": [
+			"cskd8"
+		]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
@@ -327,7 +335,8 @@
 			"Ras96",
 			"xxarupakaxx",
 			"anko9801",
-			"MotoyaAsahina"
+			"MotoyaAsahina",
+			"cskd8"
 		]
 	}
 ]
