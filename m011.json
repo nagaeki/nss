@@ -323,6 +323,23 @@
 		]
 	},
 	{
+		"name": "shota-aa",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/shota-aa",
+		"shell": "/bin/bash",
+		"uid": 60030,
+		"gid": 60030
+	},
+	{
+		"name": "shota-aa",
+		"passwd": "",
+		"gid": 60030,
+		"members": [
+			"shota-aa"
+		]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
@@ -345,7 +362,8 @@
 			"MotoyaAsahina",
 			"ryoha000",
 			"fuji8",
-			"8379K"
+			"8379K",
+			"shota-aa"
 		]
 	}
 ]
