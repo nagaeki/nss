@@ -1,0 +1,10 @@
+[
+  {
+		"name": "sysad",
+		"passwd": "",
+		"gid": 60000,
+		"members": [
+			
+		]
+	}
+]
