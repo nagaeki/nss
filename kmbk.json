@@ -5,13 +5,13 @@
 		"gecos": "",
 		"dir": "/home/FujishigeTemma",
 		"shell": "/bin/bash",
-		"uid": 60005,
-		"gid": 60005
+		"uid": 60008,
+		"gid": 60008
 	},
 	{
 		"name": "FujishigeTemma",
 		"passwd": "",
-		"gid": 60005,
+		"gid": 60008,
 		"members": [
 			"FujishigeTemma"
 		]
@@ -22,13 +22,13 @@
 		"gecos": "",
 		"dir": "/home/sapphi-red",
 		"shell": "/bin/bash",
-		"uid": 60006,
-		"gid": 60006
+		"uid": 60007,
+		"gid": 60007
 	},
 	{
 		"name": "sapphi-red",
 		"passwd": "",
-		"gid": 60006,
+		"gid": 60007,
 		"members": [
 			"sapphi-red"
 		]
@@ -39,13 +39,13 @@
 		"gecos": "",
 		"dir": "/home/hijiki51",
 		"shell": "/bin/bash",
-		"uid": 60007,
-		"gid": 60007
+		"uid": 60020,
+		"gid": 60020
 	},
 	{
 		"name": "hijiki51",
 		"passwd": "",
-		"gid": 60007,
+		"gid": 60020,
 		"members": [
 			"hijiki51"
 		]
@@ -56,13 +56,13 @@
 		"gecos": "",
 		"dir": "/home/xxarupakaxx",
 		"shell": "/bin/bash",
-		"uid": 60008,
-		"gid": 60008
+		"uid": 60024,
+		"gid": 60024
 	},
 	{
 		"name": "xxarupakaxx",
 		"passwd": "",
-		"gid": 60008,
+		"gid": 60024,
 		"members": [
 			"xxarupakaxx"
 		]
