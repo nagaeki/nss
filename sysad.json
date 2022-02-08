@@ -322,7 +322,7 @@
 			"cskd8"
 		]
 	},
-  {
+	{
 		"name": "logica0419",
 		"passwd": "",
 		"gecos": "",
@@ -344,26 +344,26 @@
 		"passwd": "",
 		"gid": 60000,
 		"members": [
-      "trapyojo",
-      "Nagarei",
-      "FujishigeTemma",
-      "mazrean",
-      "motoki317",
-      "sapphi-red",
-      "fuji8",
-      "wasabi315",
-      "ryoha000",
-      "oribe1115",
-      "Hosshii",
-      "hijiki51",
-      "toshi-pono",
-      "lum1narie",
-      "Ras96",
-      "xxarupakaxx",
-      "anko9801",
-      "MotoyaAsahina",
-      "cskd8",
-      "logica0419"
-    ]
+			"trapyojo",
+			"Nagarei",
+			"FujishigeTemma",
+			"mazrean",
+			"motoki317",
+			"sapphi-red",
+			"fuji8",
+			"wasabi315",
+			"ryoha000",
+			"oribe1115",
+			"Hosshii",
+			"hijiki51",
+			"toshi-pono",
+			"lum1narie",
+			"Ras96",
+			"xxarupakaxx",
+			"anko9801",
+			"MotoyaAsahina",
+			"cskd8",
+			"logica0419"
+		]
 	}
 ]
