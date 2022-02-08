@@ -1,0 +1,81 @@
+[
+	{
+		"name": "sapphi-red",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/sapphi-red",
+		"shell": "/bin/bash",
+		"uid": 60007,
+		"gid": 60007
+	},
+	{
+		"name": "sapphi-red",
+		"passwd": "",
+		"gid": 60007,
+		"members": [
+			"sapphi-red"
+		]
+	},
+	{
+		"name": "FujishigeTemma",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/FujishigeTemma",
+		"shell": "/bin/bash",
+		"uid": 60008,
+		"gid": 60008
+	},
+	{
+		"name": "FujishigeTemma",
+		"passwd": "",
+		"gid": 60008,
+		"members": [
+			"FujishigeTemma"
+		]
+	},
+	{
+		"name": "hijiki51",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/hijiki51",
+		"shell": "/bin/bash",
+		"uid": 60020,
+		"gid": 60020
+	},
+	{
+		"name": "hijiki51",
+		"passwd": "",
+		"gid": 60020,
+		"members": [
+			"hijiki51"
+		]
+	},
+	{
+		"name": "xxarupakaxx",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/xxarupakaxx",
+		"shell": "/bin/bash",
+		"uid": 60024,
+		"gid": 60024
+	},
+	{
+		"name": "xxarupakaxx",
+		"passwd": "",
+		"gid": 60024,
+		"members": [
+			"xxarupakaxx"
+		]
+	},
+	{
+		"name": "sysad",
+		"passwd": "",
+		"gid": 60000,
+		"members": [
+			"sapphi-red",
+			"FujishigeTemma",
+			"hijiki51",
+			"xxarupakaxx"
+		]
+	}
+]
