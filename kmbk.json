@@ -1,22 +1,5 @@
 [
 	{
-		"name": "FujishigeTemma",
-		"passwd": "",
-		"gecos": "",
-		"dir": "/home/FujishigeTemma",
-		"shell": "/bin/bash",
-		"uid": 60008,
-		"gid": 60008
-	},
-	{
-		"name": "FujishigeTemma",
-		"passwd": "",
-		"gid": 60008,
-		"members": [
-			"FujishigeTemma"
-		]
-	},
-	{
 		"name": "sapphi-red",
 		"passwd": "",
 		"gecos": "",
@@ -31,6 +14,23 @@
 		"gid": 60007,
 		"members": [
 			"sapphi-red"
+		]
+	},
+	{
+		"name": "FujishigeTemma",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/FujishigeTemma",
+		"shell": "/bin/bash",
+		"uid": 60008,
+		"gid": 60008
+	},
+	{
+		"name": "FujishigeTemma",
+		"passwd": "",
+		"gid": 60008,
+		"members": [
+			"FujishigeTemma"
 		]
 	},
 	{
@@ -72,8 +72,8 @@
 		"passwd": "",
 		"gid": 60000,
 		"members": [
-			"FujishigeTemma",
 			"sapphi-red",
+			"FujishigeTemma",
 			"hijiki51",
 			"xxarupakaxx"
 		]
