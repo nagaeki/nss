@@ -323,6 +323,23 @@
 		]
 	},
 	{
+		"name": "logica0419",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/logica0419",
+		"shell": "/bin/bash",
+		"uid": 60031,
+		"gid": 60031
+	},
+	{
+		"name": "logica0419",
+		"passwd": "",
+		"gid": 60031,
+		"members": [
+			"logica0419"
+		]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
@@ -345,7 +362,8 @@
 			"xxarupakaxx",
 			"anko9801",
 			"MotoyaAsahina",
-			"cskd8"
+			"cskd8",
+			"logica0419"
 		]
 	}
 ]
