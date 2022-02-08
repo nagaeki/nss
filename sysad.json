@@ -322,30 +322,48 @@
 			"cskd8"
 		]
 	},
+  {
+		"name": "logica0419",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/logica0419",
+		"shell": "/bin/bash",
+		"uid": 60031,
+		"gid": 60031
+	},
+	{
+		"name": "logica0419",
+		"passwd": "",
+		"gid": 60031,
+		"members": [
+			"logica0419"
+		]
+	},
 	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
 		"members": [
-			"trapyojo",
-			"Nagarei",
-			"FujishigeTemma",
-			"mazrean",
-			"motoki317",
-			"sapphi-red",
-			"fuji8",
-			"wasabi315",
-			"ryoha000",
-			"oribe1115",
-			"Hosshii",
-			"hijiki51",
-			"toshi-pono",
-			"lum1narie",
-			"Ras96",
-			"xxarupakaxx",
-			"anko9801",
-			"MotoyaAsahina",
-			"cskd8"
-		]
+      "trapyojo",
+      "Nagarei",
+      "FujishigeTemma",
+      "mazrean",
+      "motoki317",
+      "sapphi-red",
+      "fuji8",
+      "wasabi315",
+      "ryoha000",
+      "oribe1115",
+      "Hosshii",
+      "hijiki51",
+      "toshi-pono",
+      "lum1narie",
+      "Ras96",
+      "xxarupakaxx",
+      "anko9801",
+      "MotoyaAsahina",
+      "cskd8",
+      "logica0419"
+    ]
 	}
 ]

@@ -356,6 +356,23 @@
 			"shota-aa"
 		]
 	},
+  {
+		"name": "logica0419",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/logica0419",
+		"shell": "/bin/bash",
+		"uid": 60031,
+		"gid": 60031
+	},
+	{
+		"name": "logica0419",
+		"passwd": "",
+		"gid": 60031,
+		"members": [
+			"logica0419"
+		]
+	},
 	{
 		"name": "sysad",
 		"passwd": "",
@@ -381,7 +398,8 @@
 			"ryoha000",
 			"fuji8",
 			"8379K",
-			"shota-aa"
+			"shota-aa",
+      "logica0419"
 		]
 	}
 ]
