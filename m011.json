@@ -306,23 +306,6 @@
 		]
 	},
 	{
-		"name": "fuji8",
-		"passwd": "",
-		"gecos": "",
-		"dir": "/home/fuji8",
-		"shell": "/bin/bash",
-		"uid": 60028,
-		"gid": 60028
-	},
-	{
-		"name": "fuji8",
-		"passwd": "",
-		"gid": 60028,
-		"members": [
-			"fuji8"
-		]
-	},
-	{
 		"name": "8379K",
 		"passwd": "",
 		"gecos": "",
@@ -396,7 +379,6 @@
 			"anko9801",
 			"MotoyaAsahina",
 			"ryoha000",
-			"fuji8",
 			"8379K",
 			"shota-aa",
 			"logica0419"
