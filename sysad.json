@@ -85,23 +85,6 @@
 		]
 	},
 	{
-		"name": "fuji8",
-		"passwd": "",
-		"gecos": "",
-		"dir": "/home/fuji8",
-		"shell": "/bin/bash",
-		"uid": 60010,
-		"gid": 60010
-	},
-	{
-		"name": "fuji8",
-		"passwd": "",
-		"gid": 60010,
-		"members": [
-			"fuji8"
-		]
-	},
-	{
 		"name": "wasabi315",
 		"passwd": "",
 		"gecos": "",
@@ -350,7 +333,6 @@
 			"mazrean",
 			"motoki317",
 			"sapphi-red",
-			"fuji8",
 			"wasabi315",
 			"ryoha000",
 			"oribe1115",
