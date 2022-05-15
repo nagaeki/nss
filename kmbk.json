@@ -51,31 +51,13 @@
 		]
 	},
 	{
-		"name": "xxarupakaxx",
-		"passwd": "",
-		"gecos": "",
-		"dir": "/home/xxarupakaxx",
-		"shell": "/bin/bash",
-		"uid": 60024,
-		"gid": 60024
-	},
-	{
-		"name": "xxarupakaxx",
-		"passwd": "",
-		"gid": 60024,
-		"members": [
-			"xxarupakaxx"
-		]
-	},
-	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
 		"members": [
 			"sapphi-red",
 			"FujishigeTemma",
-			"hijiki51",
-			"xxarupakaxx"
+			"hijiki51"
 		]
 	}
 ]
