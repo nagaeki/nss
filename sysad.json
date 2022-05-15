@@ -323,6 +323,23 @@
 		]
 	},
 	{
+		"name": "yukikurage",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/yukikurage",
+		"shell": "/bin/bash",
+		"uid": 60032,
+		"gid": 60032
+	},
+	{
+		"name": "yukikurage",
+		"passwd": "",
+		"gid": 60032,
+		"members": [
+			"yukikurage"
+		]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
@@ -345,7 +362,8 @@
 			"anko9801",
 			"MotoyaAsahina",
 			"cskd8",
-			"logica0419"
+			"logica0419",
+			"yukikurage"
 		]
 	}
 ]
