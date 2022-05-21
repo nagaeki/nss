@@ -12,7 +12,9 @@
 		"name": "Nagarei",
 		"passwd": "",
 		"gid": 60005,
-		"members": ["Nagarei"]
+		"members": [
+			"Nagarei"
+		]
 	},
 	{
 		"name": "motoki317",
@@ -27,7 +29,9 @@
 		"name": "motoki317",
 		"passwd": "",
 		"gid": 60006,
-		"members": ["motoki317"]
+		"members": [
+			"motoki317"
+		]
 	},
 	{
 		"name": "sapphi-red",
@@ -42,7 +46,9 @@
 		"name": "sapphi-red",
 		"passwd": "",
 		"gid": 60007,
-		"members": ["sapphi-red"]
+		"members": [
+			"sapphi-red"
+		]
 	},
 	{
 		"name": "FujishigeTemma",
@@ -57,7 +63,9 @@
 		"name": "FujishigeTemma",
 		"passwd": "",
 		"gid": 60008,
-		"members": ["FujishigeTemma"]
+		"members": [
+			"FujishigeTemma"
+		]
 	},
 	{
 		"name": "mazrean",
@@ -72,7 +80,9 @@
 		"name": "mazrean",
 		"passwd": "",
 		"gid": 60009,
-		"members": ["mazrean"]
+		"members": [
+			"mazrean"
+		]
 	},
 	{
 		"name": "oribe1115",
@@ -87,7 +97,9 @@
 		"name": "oribe1115",
 		"passwd": "",
 		"gid": 60015,
-		"members": ["oribe1115"]
+		"members": [
+			"oribe1115"
+		]
 	},
 	{
 		"name": "trapyojo",
@@ -102,7 +114,9 @@
 		"name": "trapyojo",
 		"passwd": "",
 		"gid": 60016,
-		"members": ["trapyojo"]
+		"members": [
+			"trapyojo"
+		]
 	},
 	{
 		"name": "Hosshii",
@@ -117,7 +131,9 @@
 		"name": "Hosshii",
 		"passwd": "",
 		"gid": 60017,
-		"members": ["Hosshii"]
+		"members": [
+			"Hosshii"
+		]
 	},
 	{
 		"name": "series2",
@@ -132,7 +148,9 @@
 		"name": "series2",
 		"passwd": "",
 		"gid": 60018,
-		"members": ["series2"]
+		"members": [
+			"series2"
+		]
 	},
 	{
 		"name": "cskd8",
@@ -147,7 +165,9 @@
 		"name": "cskd8",
 		"passwd": "",
 		"gid": 60019,
-		"members": ["cskd8"]
+		"members": [
+			"cskd8"
+		]
 	},
 	{
 		"name": "hijiki51",
@@ -162,7 +182,9 @@
 		"name": "hijiki51",
 		"passwd": "",
 		"gid": 60020,
-		"members": ["hijiki51"]
+		"members": [
+			"hijiki51"
+		]
 	},
 	{
 		"name": "toshi-pono",
@@ -177,7 +199,9 @@
 		"name": "toshi-pono",
 		"passwd": "",
 		"gid": 60021,
-		"members": ["toshi-pono"]
+		"members": [
+			"toshi-pono"
+		]
 	},
 	{
 		"name": "lum1narie",
@@ -192,7 +216,9 @@
 		"name": "lum1narie",
 		"passwd": "",
 		"gid": 60022,
-		"members": ["lum1narie"]
+		"members": [
+			"lum1narie"
+		]
 	},
 	{
 		"name": "Ras96",
@@ -207,7 +233,9 @@
 		"name": "Ras96",
 		"passwd": "",
 		"gid": 60023,
-		"members": ["Ras96"]
+		"members": [
+			"Ras96"
+		]
 	},
 	{
 		"name": "xxarupakaxx",
@@ -222,7 +250,9 @@
 		"name": "xxarupakaxx",
 		"passwd": "",
 		"gid": 60024,
-		"members": ["xxarupakaxx"]
+		"members": [
+			"xxarupakaxx"
+		]
 	},
 	{
 		"name": "anko9801",
@@ -237,7 +267,9 @@
 		"name": "anko9801",
 		"passwd": "",
 		"gid": 60025,
-		"members": ["anko9801"]
+		"members": [
+			"anko9801"
+		]
 	},
 	{
 		"name": "MotoyaAsahina",
@@ -252,7 +284,9 @@
 		"name": "MotoyaAsahina",
 		"passwd": "",
 		"gid": 60026,
-		"members": ["MotoyaAsahina"]
+		"members": [
+			"MotoyaAsahina"
+		]
 	},
 	{
 		"name": "ryoha000",
@@ -267,7 +301,9 @@
 		"name": "ryoha000",
 		"passwd": "",
 		"gid": 60027,
-		"members": ["ryoha000"]
+		"members": [
+			"ryoha000"
+		]
 	},
 	{
 		"name": "8379K",
@@ -282,7 +318,9 @@
 		"name": "8379K",
 		"passwd": "",
 		"gid": 60029,
-		"members": ["8379K"]
+		"members": [
+			"8379K"
+		]
 	},
 	{
 		"name": "shota-aa",
@@ -297,7 +335,9 @@
 		"name": "shota-aa",
 		"passwd": "",
 		"gid": 60030,
-		"members": ["shota-aa"]
+		"members": [
+			"shota-aa"
+		]
 	},
 	{
 		"name": "logica0419",
@@ -312,7 +352,9 @@
 		"name": "logica0419",
 		"passwd": "",
 		"gid": 60031,
-		"members": ["logica0419"]
+		"members": [
+			"logica0419"
+		]
 	},
 	{
 		"name": "yukikurage",
@@ -327,7 +369,9 @@
 		"name": "yukikurage",
 		"passwd": "",
 		"gid": 60032,
-		"members": ["yukikurage"]
+		"members": [
+			"yukikurage"
+		]
 	},
 	{
 		"name": "Rozelin-dc",
@@ -342,7 +386,9 @@
 		"name": "Rozelin-dc",
 		"passwd": "",
 		"gid": 60033,
-		"members": ["Rozelin-dc"]
+		"members": [
+			"Rozelin-dc"
+		]
 	},
 	{
 		"name": "mehm8128",
@@ -357,7 +403,9 @@
 		"name": "mehm8128",
 		"passwd": "",
 		"gid": 60034,
-		"members": ["mehm8128"]
+		"members": [
+			"mehm8128"
+		]
 	},
 	{
 		"name": "sysad",
