@@ -391,6 +391,23 @@
 		]
 	},
 	{
+		"name": "mehm8128",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/mehm8128",
+		"shell": "/bin/bash",
+		"uid": 60034,
+		"gid": 60034
+	},
+	{
+		"name": "mehm8128",
+		"passwd": "",
+		"gid": 60034,
+		"members": [
+			"mehm8128"
+		]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
@@ -417,7 +434,8 @@
 			"shota-aa",
 			"logica0419",
 			"yukikurage",
-			"Rozelin-dc"
+			"Rozelin-dc",
+			"mehm8128"
 		]
 	}
 ]
