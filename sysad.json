@@ -340,6 +340,23 @@
 		]
 	},
 	{
+		"name": "Rozelin-dc",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/Rozelin-dc",
+		"shell": "/bin/bash",
+		"uid": 60033,
+		"gid": 60033
+	},
+	{
+		"name": "Rozelin-dc",
+		"passwd": "",
+		"gid": 60033,
+		"members": [
+			"Rozelin-dc"
+		]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
@@ -363,7 +380,8 @@
 			"MotoyaAsahina",
 			"cskd8",
 			"logica0419",
-			"yukikurage"
+			"yukikurage",
+			"Rozelin-dc"
 		]
 	}
 ]
