@@ -362,13 +362,13 @@
 		"gecos": "",
 		"dir": "/home/harsssh",
 		"shell": "/bin/bash",
-		"uid": 600035,
-		"gid": 600035
+		"uid": 60035,
+		"gid": 60035
 	},
 	{
 		"name": "harsssh",
 		"passwd": "",
-		"gid": 600035,
+		"gid": 60035,
 		"members": [
 			"harsssh"
 		]
