@@ -357,20 +357,20 @@
 		]
 	},
 	{
-		"name": "harsh",
+		"name": "harsssh",
 		"passwd": "",
 		"gecos": "",
-		"dir": "/home/harsh",
+		"dir": "/home/harsssh",
 		"shell": "/bin/bash",
 		"uid": 600035,
 		"gid": 600035
 	},
 	{
-		"name": "harsh",
+		"name": "harsssh",
 		"passwd": "",
 		"gid": 600035,
 		"members": [
-			"harsh"
+			"harsssh"
 		]
 	},
 	{
@@ -399,7 +399,7 @@
 			"logica0419",
 			"yukikurage",
 			"Rozelin-dc",
-			"harsh"
+			"harsssh"
 		]
 	}
 ]
