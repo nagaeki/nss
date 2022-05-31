@@ -357,6 +357,23 @@
 		]
 	},
 	{
+		"name": "harsssh",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/harsssh",
+		"shell": "/bin/bash",
+		"uid": 60035,
+		"gid": 60035
+	},
+	{
+		"name": "harsssh",
+		"passwd": "",
+		"gid": 60035,
+		"members": [
+			"harsssh"
+		]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
@@ -381,7 +398,8 @@
 			"cskd8",
 			"logica0419",
 			"yukikurage",
-			"Rozelin-dc"
+			"Rozelin-dc",
+			"harsssh"
 		]
 	}
 ]
