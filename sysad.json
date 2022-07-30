@@ -374,6 +374,23 @@
 		]
 	},
 	{
+		"name": "saitenntaisei",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/saitenntaisei",
+		"shell": "/bin/bash",
+		"uid": 60036,
+		"gid": 60036
+	},
+	{
+		"name": "saitenntaisei",
+		"passwd": "",
+		"gid": 60036,
+		"members": [
+			"saitenntaisei"
+		]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
@@ -399,7 +416,8 @@
 			"logica0419",
 			"yukikurage",
 			"Rozelin-dc",
-			"harsssh"
+			"harsssh",
+			"saitenntaisei"
 		]
 	}
 ]
