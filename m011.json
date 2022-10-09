@@ -425,6 +425,23 @@
 		]
 	},
 	{
+		"name": "seigo2016",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/seigo2016",
+		"shell": "/bin/bash",
+		"uid": 60037,
+		"gid": 60037
+	},
+	{
+		"name": "seigo2016",
+		"passwd": "",
+		"gid": 60037,
+		"members": [
+			"seigo2016"
+		]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
@@ -453,7 +470,8 @@
 			"yukikurage",
 			"Rozelin-dc",
 			"mehm8128",
-			"saitenntaisei"
+			"saitenntaisei",
+			"seigo2016"
 		]
 	}
 ]
