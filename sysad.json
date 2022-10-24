@@ -391,6 +391,23 @@
 		]
 	},
 	{
+		"name": "zer0-star",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/zer0-star",
+		"shell": "/bin/bash",
+		"uid": 60038,
+		"gid": 60038
+	},
+	{
+		"name": "zer0-star",
+		"passwd": "",
+		"gid": 60038,
+		"members": [
+			"zer0-star"
+		]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
@@ -417,7 +434,8 @@
 			"yukikurage",
 			"Rozelin-dc",
 			"harsssh",
-			"saitenntaisei"
+			"saitenntaisei",
+			"zer0-star"
 		]
 	}
 ]
