@@ -408,6 +408,23 @@
 		]
 	},
 	{
+		"name": "Takeno-hito",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/Takeno-hito",
+		"shell": "/bin/bash",
+		"uid": 60039,
+		"gid": 60039
+	},
+	{
+		"name": "Takeno-hito",
+		"passwd": "",
+		"gid": 60039,
+		"members": [
+			"Takeno-hito"
+		]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
@@ -435,7 +452,8 @@
 			"Rozelin-dc",
 			"harsssh",
 			"saitenntaisei",
-			"zer0-star"
+			"zer0-star",
+			"Takeno-hito"
 		]
 	}
 ]
