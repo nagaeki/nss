@@ -425,6 +425,23 @@
 		]
 	},
 	{
+		"name": "s9-sukyu",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/s9-sukyu",
+		"shell": "/bin/bash",
+		"uid": 60040,
+		"gid": 60040
+	},
+	{
+		"name": "s9-sukyu",
+		"passwd": "",
+		"gid": 60040,
+		"members": [
+			"s9-sukyu"
+		]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
@@ -453,7 +470,8 @@
 			"harsssh",
 			"saitenntaisei",
 			"zer0-star",
-			"Takeno-hito"
+			"Takeno-hito",
+			"s9-sukyu"
 		]
 	}
 ]
