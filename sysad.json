@@ -153,23 +153,6 @@
 		]
 	},
 	{
-		"name": "Hosshii",
-		"passwd": "",
-		"gecos": "",
-		"dir": "/home/Hosshii",
-		"shell": "/bin/bash",
-		"uid": 60017,
-		"gid": 60017
-	},
-	{
-		"name": "Hosshii",
-		"passwd": "",
-		"gid": 60017,
-		"members": [
-			"Hosshii"
-		]
-	},
-	{
 		"name": "hijiki51",
 		"passwd": "",
 		"gecos": "",
@@ -455,7 +438,6 @@
 			"wasabi315",
 			"ryoha000",
 			"oribe1115",
-			"Hosshii",
 			"hijiki51",
 			"toshi-pono",
 			"lum1narie",
