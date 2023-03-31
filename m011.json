@@ -119,23 +119,6 @@
 		]
 	},
 	{
-		"name": "Hosshii",
-		"passwd": "",
-		"gecos": "",
-		"dir": "/home/Hosshii",
-		"shell": "/bin/bash",
-		"uid": 60017,
-		"gid": 60017
-	},
-	{
-		"name": "Hosshii",
-		"passwd": "",
-		"gid": 60017,
-		"members": [
-			"Hosshii"
-		]
-	},
-	{
 		"name": "series2",
 		"passwd": "",
 		"gecos": "",
@@ -453,7 +436,6 @@
 			"mazrean",
 			"oribe1115",
 			"trapyojo",
-			"Hosshii",
 			"series2",
 			"cskd8",
 			"hijiki51",
