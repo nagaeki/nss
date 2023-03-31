@@ -17,23 +17,6 @@
 		]
 	},
 	{
-		"name": "FujishigeTemma",
-		"passwd": "",
-		"gecos": "",
-		"dir": "/home/FujishigeTemma",
-		"shell": "/bin/bash",
-		"uid": 60008,
-		"gid": 60008
-	},
-	{
-		"name": "FujishigeTemma",
-		"passwd": "",
-		"gid": 60008,
-		"members": [
-			"FujishigeTemma"
-		]
-	},
-	{
 		"name": "mazrean",
 		"passwd": "",
 		"gecos": "",
@@ -431,7 +414,6 @@
 		"members": [
 			"trapyojo",
 			"Nagarei",
-			"FujishigeTemma",
 			"mazrean",
 			"motoki317",
 			"sapphi-red",
