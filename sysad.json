@@ -255,23 +255,6 @@
 		]
 	},
 	{
-		"name": "cskd8",
-		"passwd": "",
-		"gecos": "",
-		"dir": "/home/cskd8",
-		"shell": "/bin/bash",
-		"uid": 60027,
-		"gid": 60027
-	},
-	{
-		"name": "cskd8",
-		"passwd": "",
-		"gid": 60027,
-		"members": [
-			"cskd8"
-		]
-	},
-	{
 		"name": "logica0419",
 		"passwd": "",
 		"gecos": "",
@@ -427,7 +410,6 @@
 			"xxarupakaxx",
 			"anko9801",
 			"MotoyaAsahina",
-			"cskd8",
 			"logica0419",
 			"yukikurage",
 			"Rozelin-dc",
