@@ -391,6 +391,23 @@
 		]
 	},
 	{
+		"name": "pikachu0310",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/pikachu0310",
+		"shell": "/bin/bash",
+		"uid": 60041,
+		"gid": 60041
+	},
+	{
+		"name": "pikachu0310",
+		"passwd": "",
+		"gid": 60041,
+		"members": [
+			"pikachu0310"
+		]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
