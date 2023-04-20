@@ -51,23 +51,6 @@
 		]
 	},
 	{
-		"name": "FujishigeTemma",
-		"passwd": "",
-		"gecos": "",
-		"dir": "/home/FujishigeTemma",
-		"shell": "/bin/bash",
-		"uid": 60008,
-		"gid": 60008
-	},
-	{
-		"name": "FujishigeTemma",
-		"passwd": "",
-		"gid": 60008,
-		"members": [
-			"FujishigeTemma"
-		]
-	},
-	{
 		"name": "mazrean",
 		"passwd": "",
 		"gecos": "",
@@ -119,23 +102,6 @@
 		]
 	},
 	{
-		"name": "Hosshii",
-		"passwd": "",
-		"gecos": "",
-		"dir": "/home/Hosshii",
-		"shell": "/bin/bash",
-		"uid": 60017,
-		"gid": 60017
-	},
-	{
-		"name": "Hosshii",
-		"passwd": "",
-		"gid": 60017,
-		"members": [
-			"Hosshii"
-		]
-	},
-	{
 		"name": "series2",
 		"passwd": "",
 		"gecos": "",
@@ -150,23 +116,6 @@
 		"gid": 60018,
 		"members": [
 			"series2"
-		]
-	},
-	{
-		"name": "cskd8",
-		"passwd": "",
-		"gecos": "",
-		"dir": "/home/cskd8",
-		"shell": "/bin/bash",
-		"uid": 60019,
-		"gid": 60019
-	},
-	{
-		"name": "cskd8",
-		"passwd": "",
-		"gid": 60019,
-		"members": [
-			"cskd8"
 		]
 	},
 	{
@@ -449,13 +398,10 @@
 			"Nagarei",
 			"motoki317",
 			"sapphi-red",
-			"FujishigeTemma",
 			"mazrean",
 			"oribe1115",
 			"trapyojo",
-			"Hosshii",
 			"series2",
-			"cskd8",
 			"hijiki51",
 			"toshi-pono",
 			"lum1narie",

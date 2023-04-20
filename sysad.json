@@ -17,23 +17,6 @@
 		]
 	},
 	{
-		"name": "FujishigeTemma",
-		"passwd": "",
-		"gecos": "",
-		"dir": "/home/FujishigeTemma",
-		"shell": "/bin/bash",
-		"uid": 60008,
-		"gid": 60008
-	},
-	{
-		"name": "FujishigeTemma",
-		"passwd": "",
-		"gid": 60008,
-		"members": [
-			"FujishigeTemma"
-		]
-	},
-	{
 		"name": "mazrean",
 		"passwd": "",
 		"gecos": "",
@@ -153,23 +136,6 @@
 		]
 	},
 	{
-		"name": "Hosshii",
-		"passwd": "",
-		"gecos": "",
-		"dir": "/home/Hosshii",
-		"shell": "/bin/bash",
-		"uid": 60017,
-		"gid": 60017
-	},
-	{
-		"name": "Hosshii",
-		"passwd": "",
-		"gid": 60017,
-		"members": [
-			"Hosshii"
-		]
-	},
-	{
 		"name": "hijiki51",
 		"passwd": "",
 		"gecos": "",
@@ -286,23 +252,6 @@
 		"gid": 60026,
 		"members": [
 			"MotoyaAsahina"
-		]
-	},
-	{
-		"name": "cskd8",
-		"passwd": "",
-		"gecos": "",
-		"dir": "/home/cskd8",
-		"shell": "/bin/bash",
-		"uid": 60027,
-		"gid": 60027
-	},
-	{
-		"name": "cskd8",
-		"passwd": "",
-		"gid": 60027,
-		"members": [
-			"cskd8"
 		]
 	},
 	{
@@ -459,20 +408,35 @@
 		]
 	},
 	{
+		"name": "pikachu0310",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/pikachu0310",
+		"shell": "/bin/bash",
+		"uid": 60041,
+		"gid": 60041
+	},
+	{
+		"name": "pikachu0310",
+		"passwd": "",
+		"gid": 60041,
+		"members": [
+			"pikachu0310"
+		]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
 		"members": [
 			"trapyojo",
 			"Nagarei",
-			"FujishigeTemma",
 			"mazrean",
 			"motoki317",
 			"sapphi-red",
 			"wasabi315",
 			"ryoha000",
 			"oribe1115",
-			"Hosshii",
 			"hijiki51",
 			"toshi-pono",
 			"lum1narie",
@@ -480,7 +444,6 @@
 			"xxarupakaxx",
 			"anko9801",
 			"MotoyaAsahina",
-			"cskd8",
 			"logica0419",
 			"yukikurage",
 			"Rozelin-dc",
@@ -489,7 +452,8 @@
                         "seigo2016",
 			"zer0-star",
 			"Takeno-hito",
-			"s9-sukyu"
+			"s9-sukyu",
+			"pikachu0310"
 		]
 	}
 ]
