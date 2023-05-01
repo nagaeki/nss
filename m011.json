@@ -379,13 +379,13 @@
 		"gecos": "",
 		"dir": "/home/ras0q",
 		"shell": "/bin/bash",
-		"uid": 60038,
-		"gid": 60038
+		"uid": 60042,
+		"gid": 60042
 	},
 	{
 		"name": "ras0q",
 		"passwd": "",
-		"gid": 60038,
+		"gid": 60042,
 		"members": [
 			"ras0q"
 		]
