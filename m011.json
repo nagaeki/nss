@@ -170,23 +170,6 @@
 		]
 	},
 	{
-		"name": "Ras96",
-		"passwd": "",
-		"gecos": "",
-		"dir": "/home/Ras96",
-		"shell": "/bin/bash",
-		"uid": 60023,
-		"gid": 60023
-	},
-	{
-		"name": "Ras96",
-		"passwd": "",
-		"gid": 60023,
-		"members": [
-			"Ras96"
-		]
-	},
-	{
 		"name": "xxarupakaxx",
 		"passwd": "",
 		"gecos": "",
@@ -391,6 +374,23 @@
 		]
 	},
 	{
+		"name": "ras0q",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/ras0q",
+		"shell": "/bin/bash",
+		"uid": 60042,
+		"gid": 60042
+	},
+	{
+		"name": "ras0q",
+		"passwd": "",
+		"gid": 60042,
+		"members": [
+			"ras0q"
+		]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
@@ -405,7 +405,6 @@
 			"hijiki51",
 			"toshi-pono",
 			"lum1narie",
-			"Ras96",
 			"xxarupakaxx",
 			"anko9801",
 			"MotoyaAsahina",
@@ -417,7 +416,8 @@
 			"Rozelin-dc",
 			"mehm8128",
 			"saitenntaisei",
-			"seigo2016"
+			"seigo2016",
+			"ras0q"
 		]
 	}
 ]
