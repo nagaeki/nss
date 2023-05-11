@@ -339,23 +339,23 @@
 			"saitenntaisei"
 		]
 	},
-        {
-                "name": "seigo2016",
-                "passwd": "",
-                "gecos": "",
-                "dir": "/home/seigo2016",
-                "shell": "/bin/bash",
-                "uid": 60037,
-                "gid": 60037
-        },
-        {
-                "name": "seigo2016",
-                "passwd": "",
-                "gid": 60037,
-                "members": [
-                        "seigo2016"
-                ]
-        },
+	{
+		"name": "seigo2016",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/seigo2016",
+		"shell": "/bin/bash",
+		"uid": 60037,
+		"gid": 60037
+	},
+	{
+		"name": "seigo2016",
+		"passwd": "",
+		"gid": 60037,
+		"members": [
+			"seigo2016"
+		]
+	},
 	{
 		"name": "zer0-star",
 		"passwd": "",
@@ -449,7 +449,7 @@
 			"Rozelin-dc",
 			"harsssh",
 			"saitenntaisei",
-                        "seigo2016",
+			"seigo2016",
 			"zer0-star",
 			"Takeno-hito",
 			"s9-sukyu",
