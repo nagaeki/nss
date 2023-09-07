@@ -425,6 +425,23 @@
 		]
 	},
 	{
+		"name": "cp20",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/cp20",
+		"shell": "/bin/bash",
+		"uid": 60043,
+		"gid": 60043
+	},
+	{
+		"name": "cp20",
+		"passwd": "",
+		"gid": 60043,
+		"members": [
+			"cp20"
+		]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
@@ -453,7 +470,8 @@
 			"Takeno-hito",
 			"s9-sukyu",
 			"pikachu0310",
-			"ras0q"
+			"ras0q",
+			"cp20"
 		]
 	}
 ]
