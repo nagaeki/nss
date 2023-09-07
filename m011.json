@@ -102,23 +102,6 @@
 		]
 	},
 	{
-		"name": "series2",
-		"passwd": "",
-		"gecos": "",
-		"dir": "/home/series2",
-		"shell": "/bin/bash",
-		"uid": 60018,
-		"gid": 60018
-	},
-	{
-		"name": "series2",
-		"passwd": "",
-		"gid": 60018,
-		"members": [
-			"series2"
-		]
-	},
-	{
 		"name": "hijiki51",
 		"passwd": "",
 		"gecos": "",
@@ -184,23 +167,6 @@
 		"gid": 60024,
 		"members": [
 			"xxarupakaxx"
-		]
-	},
-	{
-		"name": "anko9801",
-		"passwd": "",
-		"gecos": "",
-		"dir": "/home/anko9801",
-		"shell": "/bin/bash",
-		"uid": 60025,
-		"gid": 60025
-	},
-	{
-		"name": "anko9801",
-		"passwd": "",
-		"gid": 60025,
-		"members": [
-			"anko9801"
 		]
 	},
 	{
@@ -418,12 +384,10 @@
 			"mazrean",
 			"oribe1115",
 			"trapyojo",
-			"series2",
 			"hijiki51",
 			"toshi-pono",
 			"lum1narie",
 			"xxarupakaxx",
-			"anko9801",
 			"MotoyaAsahina",
 			"ryoha000",
 			"8379K",

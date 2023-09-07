@@ -204,23 +204,6 @@
 		]
 	},
 	{
-		"name": "anko9801",
-		"passwd": "",
-		"gecos": "",
-		"dir": "/home/anko9801",
-		"shell": "/bin/bash",
-		"uid": 60025,
-		"gid": 60025
-	},
-	{
-		"name": "anko9801",
-		"passwd": "",
-		"gid": 60025,
-		"members": [
-			"anko9801"
-		]
-	},
-	{
 		"name": "MotoyaAsahina",
 		"passwd": "",
 		"gecos": "",
@@ -458,7 +441,6 @@
 			"toshi-pono",
 			"lum1narie",
 			"xxarupakaxx",
-			"anko9801",
 			"MotoyaAsahina",
 			"logica0419",
 			"yukikurage",
