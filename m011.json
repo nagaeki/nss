@@ -357,20 +357,20 @@
 		]
 	},
 	{
-		"name": "cp20",
+		"name": "cp-20",
 		"passwd": "",
 		"gecos": "",
-		"dir": "/home/cp20",
+		"dir": "/home/cp-20",
 		"shell": "/bin/bash",
 		"uid": 60043,
 		"gid": 60043
 	},
 	{
-		"name": "cp20",
+		"name": "cp-20",
 		"passwd": "",
 		"gid": 60043,
 		"members": [
-			"cp20"
+			"cp-20"
 		]
 	},
 	{
@@ -399,7 +399,7 @@
 			"saitenntaisei",
 			"seigo2016",
 			"ras0q",
-			"cp20"
+			"cp-20"
 		]
 	}
 ]
