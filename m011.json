@@ -340,6 +340,23 @@
 		]
 	},
 	{
+		"name": "Takeno-hito",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/Takeno-hito",
+		"shell": "/bin/bash",
+		"uid": 60039,
+		"gid": 60039
+	},
+	{
+		"name": "Takeno-hito",
+		"passwd": "",
+		"gid": 60039,
+		"members": [
+			"Takeno-hito"
+		]
+	},
+	{
 		"name": "ras0q",
 		"passwd": "",
 		"gecos": "",
@@ -415,6 +432,7 @@
 			"mehm8128",
 			"saitenntaisei",
 			"seigo2016",
+			"Takeno-hito",
 			"ras0q",
 			"cp-20",
 			"pirosiki197"
