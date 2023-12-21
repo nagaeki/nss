@@ -408,20 +408,20 @@
 		]
 	},
 	{
-		"name": "h1rono",
+		"name": "H1rono",
 		"passwd": "",
 		"gecos": "",
-		"dir": "/home/h1rono",
+		"dir": "/home/H1rono",
 		"shell": "/bin/bash",
 		"uid": 60045,
 		"gid": 60045
 	},
 	{
-		"name": "h1rono",
+		"name": "H1rono",
 		"passwd": "",
 		"gid": 60045,
 		"members": [
-			"h1rono"
+			"H1rono"
 		]
 	},
 	{
@@ -453,7 +453,7 @@
 			"ras0q",
 			"cp-20",
 			"pirosiki197",
-			"h1rono"
+			"H1rono"
 		]
 	}
 ]
