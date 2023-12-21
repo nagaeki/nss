@@ -408,6 +408,23 @@
 		]
 	},
 	{
+		"name": "h1rono",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/h1rono",
+		"shell": "/bin/bash",
+		"uid": 60045,
+		"gid": 60045
+	},
+	{
+		"name": "h1rono",
+		"passwd": "",
+		"gid": 60045,
+		"members": [
+			"h1rono"
+		]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
@@ -435,7 +452,8 @@
 			"Takeno-hito",
 			"ras0q",
 			"cp-20",
-			"pirosiki197"
+			"pirosiki197",
+			"h1rono"
 		]
 	}
 ]
