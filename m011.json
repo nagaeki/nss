@@ -425,6 +425,23 @@
 		]
 	},
 	{
+		"name": "Pugma",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/Pugma",
+		"shell": "/bin/bash",
+		"uid": 60046,
+		"gid": 60046
+	},
+	{
+		"name": "Pugma",
+		"passwd": "",
+		"gid": 60046,
+		"members": [
+			"Pugma"
+		]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
@@ -453,7 +470,8 @@
 			"ras0q",
 			"cp-20",
 			"pirosiki197",
-			"H1rono"
+			"H1rono",
+			"Pugma"
 		]
 	}
 ]
