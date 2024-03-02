@@ -424,7 +424,7 @@
 			"cp-20"
 		]
 	},
-  {
+	{
 		"name": "alter334",
 		"passwd": "",
 		"gecos": "",
@@ -440,7 +440,7 @@
 		"members": [
 			"alter334"
 		]
-  },
+	},
 	{
 		"name": "Pugma",
 		"passwd": "",
