@@ -425,6 +425,23 @@
 		]
 	},
 	{
+		"name": "alter334",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/alter334",
+		"shell": "/bin/bash",
+		"uid": 60047,
+		"gid": 60047
+	},
+	{
+		"name": "alter334",
+		"passwd": "",
+		"gid": 60047,
+		"members": [
+			"alter334"
+		]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
@@ -453,7 +470,8 @@
 			"s9-sukyu",
 			"pikachu0310",
 			"ras0q",
-			"cp-20"
+			"cp-20",
+			"alter334"
 		]
 	}
 ]
