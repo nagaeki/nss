@@ -238,23 +238,6 @@
 		]
 	},
 	{
-		"name": "logica0419",
-		"passwd": "",
-		"gecos": "",
-		"dir": "/home/logica0419",
-		"shell": "/bin/bash",
-		"uid": 60031,
-		"gid": 60031
-	},
-	{
-		"name": "logica0419",
-		"passwd": "",
-		"gid": 60031,
-		"members": [
-			"logica0419"
-		]
-	},
-	{
 		"name": "yukikurage",
 		"passwd": "",
 		"gecos": "",
@@ -460,7 +443,6 @@
 			"ryoha000",
 			"8379K",
 			"shota-aa",
-			"logica0419",
 			"yukikurage",
 			"Rozelin-dc",
 			"mehm8128",
