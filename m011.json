@@ -68,23 +68,6 @@
 		]
 	},
 	{
-		"name": "oribe1115",
-		"passwd": "",
-		"gecos": "",
-		"dir": "/home/oribe1115",
-		"shell": "/bin/bash",
-		"uid": 60015,
-		"gid": 60015
-	},
-	{
-		"name": "oribe1115",
-		"passwd": "",
-		"gid": 60015,
-		"members": [
-			"oribe1115"
-		]
-	},
-	{
 		"name": "trapyojo",
 		"passwd": "",
 		"gecos": "",
@@ -450,7 +433,6 @@
 			"motoki317",
 			"sapphi-red",
 			"mazrean",
-			"oribe1115",
 			"trapyojo",
 			"hijiki51",
 			"toshi-pono",
