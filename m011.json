@@ -119,23 +119,6 @@
 		]
 	},
 	{
-		"name": "xxarupakaxx",
-		"passwd": "",
-		"gecos": "",
-		"dir": "/home/xxarupakaxx",
-		"shell": "/bin/bash",
-		"uid": 60024,
-		"gid": 60024
-	},
-	{
-		"name": "xxarupakaxx",
-		"passwd": "",
-		"gid": 60024,
-		"members": [
-			"xxarupakaxx"
-		]
-	},
-	{
 		"name": "MotoyaAsahina",
 		"passwd": "",
 		"gecos": "",
@@ -402,7 +385,6 @@
 			"hijiki51",
 			"toshi-pono",
 			"lum1narie",
-			"xxarupakaxx",
 			"MotoyaAsahina",
 			"ryoha000",
 			"8379K",
