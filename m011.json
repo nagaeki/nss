@@ -1,22 +1,5 @@
 [
 	{
-		"name": "Nagarei",
-		"passwd": "",
-		"gecos": "",
-		"dir": "/home/Nagarei",
-		"shell": "/bin/bash",
-		"uid": 60005,
-		"gid": 60005
-	},
-	{
-		"name": "Nagarei",
-		"passwd": "",
-		"gid": 60005,
-		"members": [
-			"Nagarei"
-		]
-	},
-	{
 		"name": "motoki317",
 		"passwd": "",
 		"gecos": "",
@@ -429,7 +412,6 @@
 		"passwd": "",
 		"gid": 60000,
 		"members": [
-			"Nagarei",
 			"motoki317",
 			"sapphi-red",
 			"mazrean",
