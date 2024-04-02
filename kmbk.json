@@ -51,13 +51,22 @@
 		]
 	},
 	{
+		"name": "cp-20",
+		"passwd": "",
+		"gid": 60043,
+		"members": [
+			"cp-20"
+		]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
 		"members": [
 			"sapphi-red",
 			"hijiki51",
-			"Takeno-hito"
+			"Takeno-hito",
+			"cp-20"
 		]
 	}
 ]
