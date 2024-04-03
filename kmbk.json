@@ -33,7 +33,7 @@
 			"hijiki51"
 		]
 	},
-		{
+	{
 		"name": "Takeno-hito",
 		"passwd": "",
 		"gecos": "",
@@ -51,13 +51,31 @@
 		]
 	},
 	{
+		"name": "cp-20",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/cp-20",
+		"shell": "/bin/bash",
+		"uid": 60043,
+		"gid": 60043
+	},
+	{
+		"name": "cp-20",
+		"passwd": "",
+		"gid": 60043,
+		"members": [
+			"cp-20"
+		]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
 		"members": [
 			"sapphi-red",
 			"hijiki51",
-			"Takeno-hito"
+			"Takeno-hito",
+			"cp-20"
 		]
 	}
 ]
