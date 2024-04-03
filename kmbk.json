@@ -33,7 +33,7 @@
 			"hijiki51"
 		]
 	},
-		{
+	{
 		"name": "Takeno-hito",
 		"passwd": "",
 		"gecos": "",
@@ -49,6 +49,15 @@
 		"members": [
 			"Takeno-hito"
 		]
+	},
+	{
+		"name": "cp-20",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/cp-20",
+		"shell": "/bin/bash",
+		"uid": 60043,
+		"gid": 60043
 	},
 	{
 		"name": "cp-20",
