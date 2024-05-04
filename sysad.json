@@ -357,6 +357,23 @@
 		]
 	},
 	{
+		"name": "pirosiki197",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/pirosiki197",
+		"shell": "/bin/bash",
+		"uid": 60044,
+		"gid": 60044
+	},
+	{
+		"name": "pirosiki197",
+		"passwd": "",
+		"gid": 60044,
+		"members": [
+			"pirosiki197"
+		]
+	},
+	{
 		"name": "alter334",
 		"passwd": "",
 		"gecos": "",
@@ -416,6 +433,7 @@
 			"pikachu0310",
 			"ras0q",
 			"cp-20",
+			"pirosiki197",
 			"Pugma",
 			"alter334"
 		]
