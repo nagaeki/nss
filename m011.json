@@ -374,6 +374,40 @@
 		]
 	},
 	{
+		"name": "alter334",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/alter334",
+		"shell": "/bin/bash",
+		"uid": 60047,
+		"gid": 60047
+	},
+	{
+		"name": "alter334",
+		"passwd": "",
+		"gid": 60047,
+		"members": [
+			"alter334"
+		]
+	},
+	{
+		"name": "ZOI-dayo",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/ZOI-dayo",
+		"shell": "/bin/bash",
+		"uid": 60048,
+		"gid": 60048
+	},
+	{
+		"name": "ZOI-dayo",
+		"passwd": "",
+		"gid": 60048,
+		"members": [
+			"ZOI-dayo"
+		]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
@@ -399,7 +433,9 @@
 			"cp-20",
 			"pirosiki197",
 			"H1rono",
-			"Pugma"
+			"Pugma",
+			"alter334",
+			"ZOI-dayo"
 		]
 	}
 ]
