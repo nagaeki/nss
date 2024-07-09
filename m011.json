@@ -374,6 +374,23 @@
 		]
 	},
 	{
+		"name": "ZOI-dayo",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/ZOI-dayo",
+		"shell": "/bin/bash",
+		"uid": 60048,
+		"gid": 60048
+	},
+	{
+		"name": "ZOI-dayo",
+		"passwd": "",
+		"gid": 60048,
+		"members": [
+			"ZOI-dayo"
+		]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
@@ -399,7 +416,8 @@
 			"cp-20",
 			"pirosiki197",
 			"H1rono",
-			"Pugma"
+			"Pugma",
+			"ZOI-dayo"
 		]
 	}
 ]
