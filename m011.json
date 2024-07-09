@@ -374,6 +374,23 @@
 		]
 	},
 	{
+		"name": "alter334",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/alter334",
+		"shell": "/bin/bash",
+		"uid": 60047,
+		"gid": 60047
+	},
+	{
+		"name": "alter334",
+		"passwd": "",
+		"gid": 60047,
+		"members": [
+			"alter334"
+		]
+	},
+	{
 		"name": "ZOI-dayo",
 		"passwd": "",
 		"gecos": "",
@@ -417,6 +434,7 @@
 			"pirosiki197",
 			"H1rono",
 			"Pugma",
+			"alter334",
 			"ZOI-dayo"
 		]
 	}
