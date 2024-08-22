@@ -408,6 +408,23 @@
 		]
 	},
 	{
+		"name": "pasmophobia",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/pasmophobia",
+		"shell": "/bin/bash",
+		"uid": 60049,
+		"gid": 60049
+	},
+	{
+		"name": "pasmophobia",
+		"passwd": "",
+		"gid": 60049,
+		"members": [
+			"pasmophobia"
+		]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
@@ -435,7 +452,8 @@
 			"H1rono",
 			"Pugma",
 			"alter334",
-			"ZOI-dayo"
+			"ZOI-dayo",
+			"pasmophobia"
 		]
 	}
 ]
